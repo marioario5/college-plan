@@ -1,0 +1,7 @@
+# Only index.html is meant to be published here. Everything else stays local:
+# source markdown (redundant with the built page), build.py, the launcher
+# script, and — critically — the real unlock password for the gated docs,
+# which must never leave this machine.
+*
+!.gitignore
+!index.html
